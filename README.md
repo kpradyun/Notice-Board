@@ -1,6 +1,6 @@
 SCIS Notice Board – Phase 1 Documentation
 1. Problem Statement
-The SCIS Notice Board is a simple Java application designed for managing and
+- The SCIS Notice Board is a simple Java application designed for managing and
 displaying official announcements at the School of Computer and Information Sciences
 (SCIS), University of Hyderabad. The system enables authorized users (Admins and
 Faculty) to create, edit, schedule, and archive notices. Students can view active
